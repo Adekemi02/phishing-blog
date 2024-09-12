@@ -60,7 +60,7 @@ const PhishingAlert: React.FC = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.5, duration: 0.5 }}
         >
-          Oops! Phishing link clicked. Your details have been compromised!
+          Oops! You&apos;ve clicked a phishing link. Details may be compromised!
         </motion.h2>
       </motion.div>
     </div>
