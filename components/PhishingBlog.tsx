@@ -27,7 +27,7 @@ const PhishingBlog: React.FC = () => {
                         <div className="w-full md:w-2/3 lg:w-3/4 space-y-6">
                             <h1 className="text-2xl font-bold"> WhatsApp Phishing </h1>
                             <p className="text-lg leading-relaxed text-gray-700">
-                                In today's digital world, staying connected through platforms like WhatsApp is essential. Unfortunately, cybercriminals have caught on and are now using these very channels to trick unsuspecting individuals into giving up their personal information.
+                                In today&apos;s digital world, staying connected through platforms like WhatsApp is essential. Unfortunately, cybercriminals have caught on and are now using these very channels to trick unsuspecting individuals into giving up their personal information.
                             </p>
 
                             <p className="text-lg leading-relaxed text-gray-700">
@@ -58,7 +58,7 @@ const PhishingBlog: React.FC = () => {
                     <div className="bg-white rounded-lg shadow-md p-6 text-center">
                         <h3 className="text-2xl font-semibold mb-4">How to Protect Yourself</h3>
                         <ul className="list-disc list-inside text-start">
-                            <li>Don't click on suspicious links</li>
+                            <li>Don&apos;t click on suspicious links</li>
                             <li>Verify the sender</li>
                             <li>Enable Two-Step Verification</li>
                             <li>Educate yourself and loved ones</li>
@@ -82,7 +82,7 @@ const PhishingBlog: React.FC = () => {
                         </div>
 
                         <div className="w-full md:w-1/2">
-                            <h3 className="text-2xl font-semibold mb-4 text-blue-800">What to Do if You've Been Scammed</h3>
+                            <h3 className="text-2xl font-semibold mb-4 text-blue-800">What to Do if You&apos;ve Been Scammed</h3>
                             <ol className="list-decimal text-start list-inside space-y-3 text-lg text-blue-900">
                                 <li className="pl-2">Change your passwords immediately</li>
                                 <li className="pl-2">Contact your bank</li>
@@ -134,7 +134,7 @@ const PhishingBlog: React.FC = () => {
                         {/* <h1 className="text-3xl font-bold mb-4">Tip: #3</h1> */}
                         <h2 className="text-2xl font-semibold mb-2">When in doubt throw it out</h2>
                         <p className="mb-4">
-                            If you ever feel that an email seems suspicious, it's always better to be safe. Avoid clicking on any links or sharing personal information, and report it to the relevant authorities or your email provider.
+                            If you ever feel that an email seems suspicious, it&apos;s always better to be safe. Avoid clicking on any links or sharing personal information, and report it to the relevant authorities or your email provider.
                         </p>
                         <Image 
                             src="/images/safe-lock.png" 
@@ -150,9 +150,9 @@ const PhishingBlog: React.FC = () => {
 
 
                 <div className="bg-yellow-100 text-justify rounded-lg p-6 mb-8">
-                    <h3 className="text-2xl font-semibold mb-4">Educating Our Parents: Why It's So Important</h3>
+                    <h3 className="text-2xl font-semibold mb-4">Educating Our Parents: Why It&apos;s So Important</h3>
                     <p className="mb-4 ">
-                        Our parents and older relatives may not be as familiar with the latest cyber threats, making them prime targets for phishing scams. It's crucial to educate them about these risks.
+                        Our parents and older relatives may not be as familiar with the latest cyber threats, making them prime targets for phishing scams. It&apos;s crucial to educate them about these risks.
                     </p>
 
                     <ul className="list-disc list-inside">
@@ -166,7 +166,7 @@ const PhishingBlog: React.FC = () => {
                 <div className="text-center">
                     {/* <h3 className="text-2xl font-semibold mb-4">Conclusion: Raising Awareness to Keep Everyone Safe</h3> */}
                     <p className="text-lg text-center">
-                        Let's stay vigilant, protect ourselves, and help others avoid these scams. Together, we can make our online space a safer place.
+                        Let&apos;s stay vigilant, protect ourselves, and help others avoid these scams. Together, we can make our online space a safer place.
                     </p>
 
                     <p className="text-xl font-bold mt-4">

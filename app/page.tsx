@@ -1,5 +1,5 @@
 import PhishingBlog from "@/components/PhishingBlog";
-import dynamic from 'next/dynamic';
+
 
 
 

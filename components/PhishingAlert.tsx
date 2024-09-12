@@ -3,6 +3,8 @@
 import React, { useRef, useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 
+
+
 const PhishingAlert: React.FC = () => {
   const textRef = useRef<HTMLHeadingElement | null>(null);
   const [fontSize, setFontSize] = useState(16);
