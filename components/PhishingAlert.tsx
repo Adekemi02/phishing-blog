@@ -42,7 +42,7 @@ const PhishingAlert: React.FC = () => {
   return (
     <div className="my-8 w-full  ">
       <motion.div 
-        className="bg-gray-100 w-[80] rounded-lg p-2 mb-2 flex items-center justify-center h-12"
+        className="bg-gray-100 w-[100] rounded-lg p-2 mb-2 flex items-center justify-center h-12"
         initial={{ x: "-100%" }}
         animate={{ 
           x: ["100%", "-100%"],
@@ -62,7 +62,7 @@ const PhishingAlert: React.FC = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.5, duration: 0.5 }}
         >
-          Oops! You&apos;ve clicked a phishing link. Details may be compromised!
+          Oops! You&apos;ve clicked a phishing link. Your details have been compromised!
         </motion.h2>
       </motion.div>
     </div>
